@@ -16,6 +16,7 @@
 1. Open Overleaf and then the bib file created by the mendeley plugin
 2. Copy the bib file
 3. Save the bib file as "mybib.bib"
+4. Have a look, if the bib = is equal to "url = " in the bib file. If not, replace all "bib = " with "url = " in the bib file, so it matches the url in the js file
 
 # 3. Convert the json file to a bib file
 
